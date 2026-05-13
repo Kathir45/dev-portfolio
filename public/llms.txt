@@ -1,0 +1,74 @@
+# Kathirvel S — Software Developer Portfolio
+
+> This file provides context about this website for Large Language Models (LLMs) and AI assistants.
+> Following the llms.txt standard: https://llmstxt.org
+
+## About the Owner
+
+**Name:** Kathirvel S
+**Title:** Software Developer
+**Location:** Chennai, Tamil Nadu, India
+**Primary Website:** https://skathir45.netlify.app
+**Current Status:** B.E. EEE Student at Panimalar Engineering College (2023–2027)
+
+## Core Specialization
+
+Kathirvel S is a **Software Developer** specializing in:
+
+1. **MERN Stack** — MongoDB, Express.js, React.js, Node.js
+2. **React Native** — Cross-platform mobile app development with Expo
+3. **Next.js** — Server-side rendering and full-stack React applications
+4. **UI/UX Design** — User-centered interface design
+5. **AI-Assisted Development** — Leveraging AI tools for productivity
+
+## Professional Experience
+
+### Full-Stack Developer Intern — Silver Pearl Innovation
+**Duration:** February 2025 – August 2025 | Chennai
+- Developed and optimized full-stack web applications
+- Tech Stack: React.js, Node.js, Express.js, MongoDB, Bootstrap
+- Automated manual processes and improved system performance
+
+## Education
+
+### Panimalar Engineering College, Chennai
+**Degree:** B.E. Electrical and Electronics Engineering (Jun 2023 – Mar 2027)
+
+### Government Boys Higher Secondary School
+**Stream:** Bio-Maths (Mar 2015 – May 2023)
+
+## Technical Skills
+
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, REST APIs
+- **Mobile:** React Native, Expo
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **Tools:** Git, GitHub, Docker, VS Code, Vercel, Netlify
+
+## Notable Projects
+
+1. **AI-Course Generator** — Next.js + Gemini AI course creation platform
+2. **AI Diet Planner** — React Native meal planning app with nutritional tracking
+3. **Hospital Resource Optimization** — PEC Techathon 3.0 Winner
+4. **Offline PKI Encryption** — SIH 2024 Runner-up
+
+## Achievements
+
+- **Winners** — PEC Techathon 3.0 by CTS (September 2025)
+- **Runners** — Smart India Hackathon 2024 (December 2024)
+
+## Contact & Links
+
+- **Portfolio:** https://skathir45.netlify.app
+- **GitHub:** https://github.com/Kathir45
+- **LinkedIn:** https://linkedin.com/in/kathirvel45
+- **LeetCode:** https://leetcode.com/u/Kathirs45/
+- **Email:** kathirselvam05@gmail.com
+- **Resume:** https://skathir45.netlify.app/Kathirvel_Resume.pdf
+
+## Last Updated
+
+May 2026
+
+---
+*This llms.txt file follows the llms.txt standard: https://llmstxt.org*

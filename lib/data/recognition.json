@@ -1,0 +1,27 @@
+{
+  "publications": [],
+  "achievements": [
+    {
+      "title": "Winners — PEC Techathon 3.0 by CTS",
+      "issuer": "Panimalar Engineering College / Cognizant",
+      "date": "2025-09",
+      "category": "Hackathon",
+      "rank": 1,
+      "roman": "I",
+      "ordinal": "st",
+      "associated_with": "Panimalar Engineering College",
+      "certificate_available": true
+    },
+    {
+      "title": "Runners — Smart India Hackathon 2024",
+      "issuer": "Government of India",
+      "date": "2024-12",
+      "category": "Hackathon",
+      "rank": 2,
+      "roman": "II",
+      "ordinal": "nd",
+      "associated_with": "Panimalar Engineering College",
+      "certificate_available": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+/* TEAM */
+
+Developer & Designer: Kathirvel S
+Role: Software Developer (MERN Stack & React Native)
+Site: https://skathir45.netlify.app
+Location: Chennai, Tamil Nadu, India
+GitHub: https://github.com/Kathir45
+LinkedIn: https://linkedin.com/in/kathirvel45
+
+/* SITE */
+
+Last update: 2026/05/13
+Standards: HTML5, CSS3, JavaScript ES6+
+Language: English
+Doctype: HTML5
+IDE: Visual Studio Code
+Framework: Next.js 16
+Styling: Tailwind CSS
+Animations: Framer Motion
+Components: React, TypeScript
+Deployment: Netlify
+Contact: Formspree
+
+/* THANKS */
+
+Open Source Community
+React Team
+Next.js Team
+Tailwind CSS Team
+Framer Motion Team
+All npm package maintainers
+
+/* NOTE */
+
+Thank you for checking out my portfolio!
+I'm always open to connecting with fellow developers
+and exploring new opportunities.
+
+Built with ❤️ and lots of ☕ in Chennai, India.

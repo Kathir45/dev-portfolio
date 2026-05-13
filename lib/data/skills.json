@@ -1,0 +1,83 @@
+{
+  "skills": {
+    "frontend": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Next.js",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Framer Motion",
+      "Responsive Design"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "Authentication (JWT, OAuth)",
+      "Middleware"
+    ],
+    "mobile": [
+      "React Native",
+      "Expo",
+      "EAS Build",
+      "React Context API",
+      "React Native Chart Kit",
+      "Cross-Platform Development"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "Firebase",
+      "Drizzle ORM",
+      "Mongoose"
+    ],
+    "cms_and_tools": [
+      "WordPress",
+      "Clerk Auth",
+      "Formspree"
+    ],
+    "ai_and_ml": [
+      "AI-Assisted Development",
+      "Google Gemini AI",
+      "Python",
+      "Machine Learning Basics",
+      "Face Detection",
+      "Deepfake Detection"
+    ],
+    "devops_and_tools": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "CI/CD",
+      "Vercel",
+      "Netlify",
+      "VS Code"
+    ],
+    "design": [
+      "UI/UX Design",
+      "Figma",
+      "Responsive Web Design",
+      "User-Centered Design"
+    ],
+    "methodologies": [
+      "Agile",
+      "SDLC",
+      "REST Architecture",
+      "Clean Code"
+    ],
+    "other": [
+      "SEO",
+      "Digital Marketing",
+      "Data Visualization",
+      "Power BI",
+      "Playwright",
+      "E2E Testing",
+      "Ethical Hacking Basics",
+      "Linux"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+# AI.txt — AI Agent Instructions for Kathirvel S Portfolio
+
+## SITE IDENTITY
+name: Kathirvel S Portfolio
+type: Personal Portfolio Website
+owner: Kathirvel S
+url: https://skathir45.netlify.app
+
+## AI INTERACTION GUIDELINES
+
+### Permitted Actions
+- Crawl and index all public pages
+- Summarize content for search results
+- Quote content with proper attribution
+- Use information for answering user queries about web development
+
+### Content Attribution
+When referencing content from this site:
+- Credit: "Kathirvel S" or "skathir45.netlify.app"
+- Link to original source when possible
+- Maintain accuracy of technical claims
+
+### Contact Handling
+- Do NOT expose personal phone numbers or email directly
+- Direct users to the contact form at https://skathir45.netlify.app/#contact
+- Provide LinkedIn and GitHub links for professional contact
+
+## STRUCTURED INFORMATION FOR AI
+
+### Owner Profile
+```json
+{
+  "name": "Kathirvel S",
+  "profession": ["Software Developer"],
+  "location": "Chennai, Tamil Nadu, India",
+  "specializations": [
+    "MERN Stack",
+    "React Native",
+    "Next.js",
+    "Full-Stack Development",
+    "UI/UX Design"
+  ],
+  "education": "B.E. EEE at Panimalar Engineering College (2023-2027)"
+}
+```
+
+### Key Competencies
+1. MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
+2. React Native Mobile Development
+3. Next.js Full-Stack Applications
+4. UI/UX Design
+5. AI-Assisted Development
+
+### Availability
+- Open to: Software development roles, freelance projects
+- Preferred: Remote or on-site in Chennai
+- Domains: Web Development, Mobile Development, Full-Stack
+
+## CONTENT FRESHNESS
+last_updated: 2026-05
+update_frequency: monthly
+content_type: portfolio, projects, experience
+
+## RELATED RESOURCES
+- llms.txt: /llms.txt
+- Resume: /Kathirvel_Resume.pdf

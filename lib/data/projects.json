@@ -1,0 +1,74 @@
+[
+  {
+    "title": "AI-Course Generator",
+    "description": "An AI-Powered Course Generator that creates complete online courses — chapters, descriptions, and YouTube video links — from just a topic input using Google Gemini AI. Automates the manual course creation process, cutting down weeks of effort into minutes.",
+    "tags": ["Next.js", "React.js", "Tailwind CSS", "Node.js", "PostgreSQL", "Drizzle ORM", "Clerk Auth", "Firebase", "Gemini AI", "YouTube API"],
+    "date": "2025-01-15",
+    "imageUrl": "",
+    "categories": ["all", "web", "ai"],
+    "code": "https://github.com/Kathir45/ai-course-generator",
+    "live": "https://jha-course-generator.vercel.app",
+    "order": 1,
+    "show": true
+  },
+  {
+    "title": "AI Diet Planner",
+    "description": "Cross-platform mobile app for meal planning with AI-powered food recommendations and real-time nutritional tracking (calories, protein, carbs, fats). Provides instant AI food suggestions categorized by meal type with interactive nutritional charts.",
+    "tags": ["React Native", "Expo", "TypeScript", "React Context API", "React Native Chart Kit", "EAS Build"],
+    "date": "2025-11-10",
+    "imageUrl": "",
+    "categories": ["all", "app", "ai"],
+    "code": "https://github.com/Kathir45/ai-diet-planner",
+    "live": null,
+    "order": 2,
+    "show": true
+  },
+  {
+    "title": "Hospital Resource Optimization",
+    "description": "PEC Techathon 3.0 Winner — An AI-powered real-time dashboard that predicts hospital resource needs (beds, oxygen, staff) using data analytics and live disease trends. Combines real-time data with hospital metrics for predictive insights and smart alerts.",
+    "tags": ["React.js", "Node.js", "Python", "PostgreSQL", "Machine Learning", "IoT", "APIs"],
+    "date": "2025-09-01",
+    "imageUrl": "",
+    "categories": ["all", "web", "ai"],
+    "code": "https://github.com/Kathir45/Doctor-Appointment-App",
+    "live": null,
+    "order": 3,
+    "show": true
+  },
+  {
+    "title": "Offline PKI Encryption System",
+    "description": "SIH 2024 Runner-up — A hardware-based PKI solution that performs secure, offline encryption within the device using a hardware root of trust for UIDAI authentication. Platform-agnostic offline PKI encryption leveraging device hardware.",
+    "tags": ["Android Keystore", "RSA OAEP", "C++", "React Native", "Swift", "OpenSSL", "BouncyCastle"],
+    "date": "2024-12-01",
+    "imageUrl": "",
+    "categories": ["all", "app"],
+    "code": "https://github.com/Kathir45",
+    "live": null,
+    "order": 4,
+    "show": true
+  },
+  {
+    "title": "Silver Pearl Web App",
+    "description": "Full-stack web application built during internship at Silver Pearl Innovation. Streamlined internal operations, automated manual processes, and enhanced data accessibility with improved system performance.",
+    "tags": ["React.js", "Node.js", "Express.js", "MongoDB", "Bootstrap"],
+    "date": "2025-02-01",
+    "imageUrl": "",
+    "categories": ["all", "web"],
+    "code": "https://github.com/Kathir45",
+    "live": null,
+    "order": 5,
+    "show": true
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "Personal developer portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Features dynamic animations, responsive design, dark mode, and contact form integration.",
+    "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    "date": "2025-05-01",
+    "imageUrl": "",
+    "categories": ["all", "web"],
+    "code": "https://github.com/Kathir45",
+    "live": "https://skathir45.netlify.app",
+    "order": 6,
+    "show": true
+  }
+]

@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  scroll-behavior: smooth;
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+.font-mono,
+code,
+kbd,
+samp,
+pre {
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+::selection {
+  background-color: #ffd700;
+  color: #000000;
+}
+
+.borderBlack {
+  @apply border border-black/10;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ffd700;
+  border-radius: 4px;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Entry animations — CSS-driven so they fire before JS hydrates */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes ring-spin {
+  to { transform: rotate(360deg); }
+}
+
+.anim-fade-up  { animation: fadeUp  0.45s cubic-bezier(0.23,1,0.32,1) both; }
+.anim-fade-in  { animation: fadeIn  0.45s cubic-bezier(0.23,1,0.32,1) both; }
+
+.anim-d0 { animation-delay: 0.05s; }
+.anim-d1 { animation-delay: 0.15s; }
+.anim-d2 { animation-delay: 0.22s; }
+.anim-d3 { animation-delay: 0.30s; }
+.anim-d4 { animation-delay: 0.36s; }
+.anim-d5 { animation-delay: 0.42s; }
+.anim-d6 { animation-delay: 0.50s; }
+.anim-d7 { animation-delay: 0.58s; }
+.anim-d8 { animation-delay: 0.66s; }
+.anim-d9 { animation-delay: 0.80s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-fade-up,
+  .anim-fade-in {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}

@@ -1,0 +1,48 @@
+# Kathirvel S — Software Developer Portfolio
+
+> Extended documentation for LLMs and AI assistants.
+
+## Full Resume Details
+
+### Kathirvel S
+**Software Developer** specializing in MERN Stack (MongoDB, Express.js, React.js, Node.js) and React Native mobile development.
+
+**Contact:**
+- Email: kathirselvam05@gmail.com
+- Phone: +91 63812 72552
+- LinkedIn: linkedin.com/in/kathirvel45
+- GitHub: github.com/Kathir45
+- LeetCode: leetcode.com/u/Kathirs45/
+- Portfolio: skathir45.netlify.app
+
+### Summary
+Passionate MERN Stack Developer and EEE student skilled in building responsive, full-stack web applications using React.js, Node.js, React Native, WordPress, Express.js, and MongoDB. Experienced in creating innovative projects like an AI Course Generator and Portfolio Website. Certified in Python, JavaScript, React.js, and UI/UX Design, with a strong focus on clean design and user-friendly solutions.
+
+### Professional Skills
+- MERN Stack Development: Proficient in building dynamic and scalable web applications
+- UI/UX Designing: Skilled in designing intuitive and user-centered interfaces
+- AI-Assisted Development: Leveraging AI tools to accelerate coding and debugging
+- RESTful APIs, Git, Agile, SDLC, CI/CD, PostgreSQL, Expo, Drizzle ORM, Docker
+
+### Work Experience
+**Full-Stack Developer Intern** — Silver Pearl Innovation (Feb 2025 – Aug 2025)
+- Developed and optimized full-stack web applications
+- Tech Stack: React.js, Node.js, Express.js, MongoDB, Bootstrap
+- Automated manual processes and improved system performance
+
+### Education
+- **Panimalar Engineering College, Chennai** — B.E. in EEE (Jun 2023 – Mar 2027)
+- **Government Boys Higher Secondary School** — Bio-Maths (Mar 2015 – May 2023)
+
+### Awards
+- **Winners** — PEC Techathon 3.0 by CTS (Sep 2025) — Hospital Resource Optimization
+- **Runners** — Smart India Hackathon 2024 (Dec 2024) — Offline PKI Encryption
+
+### Projects
+1. AI-Course Generator — Next.js, Gemini AI, PostgreSQL
+2. AI Diet Planner — React Native, Expo, TypeScript
+3. Hospital Resource Optimization — React.js, Node.js, Python ML
+4. Offline PKI Encryption — Android Keystore, React Native, C++
+
+---
+*This llms-full.txt file follows the llms.txt standard: https://llmstxt.org*

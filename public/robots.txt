@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://skathir45.netlify.app/sitemap.xml
+
+# LLM / AI discovery
+# llms.txt: https://skathir45.netlify.app/llms.txt
+# ai.txt: https://skathir45.netlify.app/ai.txt

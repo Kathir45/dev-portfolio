@@ -1,0 +1,57 @@
+[
+  {
+    "id": "exp-1",
+    "order": 5,
+    "title": "Higher Secondary Education (Bio-Maths)",
+    "company": "Government Boys Higher Secondary School",
+    "location": "Tamil Nadu, India",
+    "description": "Completed my higher secondary education with a focus on Bio-Maths, building a strong analytical foundation.",
+    "dateStart": "Mar 2015",
+    "dateEnd": "May 2023",
+    "icon": "graduation"
+  },
+  {
+    "id": "exp-2",
+    "title": "B.E. Electrical and Electronics Engineering",
+    "order": 4,
+    "company": "Panimalar Engineering College",
+    "location": "Chennai, Tamil Nadu, India",
+    "description": "Pursuing a Bachelor's degree in Electrical and Electronics Engineering. Developed strong skills in MERN Stack development, React Native, and AI-assisted development through self-learning and project work alongside core engineering coursework.",
+    "dateStart": "Jun 2023",
+    "dateEnd": "Mar 2027",
+    "icon": "graduation"
+  },
+  {
+    "id": "exp-3",
+    "title": "Full-Stack Developer Intern",
+    "order": 3,
+    "company": "Silver Pearl Innovation",
+    "location": "Chennai, Tamil Nadu, India",
+    "description": "• Developed and optimized a full-stack web application to streamline internal operations and improve user experience.\n• Built using React.js, Node.js, Express.js, MongoDB, and Bootstrap.\n• Automated manual processes, enhanced data accessibility, and improved overall system performance and efficiency.",
+    "dateStart": "Feb 2025",
+    "dateEnd": "Aug 2025",
+    "icon": "work"
+  },
+  {
+    "id": "exp-4",
+    "title": "Angular Developer",
+    "order": 2,
+    "company": "Cognizant (CKC, Sholinganallur)",
+    "location": "Chennai, Tamil Nadu, India (On-site)",
+    "description": "• Developed and maintained enterprise-grade web applications using Angular and TypeScript.\n• Implemented end-to-end test automation using Playwright with TypeScript for robust quality assurance.\n• Collaborated with cross-functional teams to deliver scalable frontend solutions.",
+    "dateStart": "Aug 2025",
+    "dateEnd": "Feb 2026",
+    "icon": "work"
+  },
+  {
+    "id": "exp-5",
+    "title": "React Native Full-Stack Developer",
+    "order": 1,
+    "company": "Slanup",
+    "location": "Chennai, Tamil Nadu, India",
+    "description": "• Building and maintaining cross-platform mobile applications using React Native and full-stack technologies.\n• Developing end-to-end features from backend APIs to polished mobile UI components.\n• Working with modern tooling including Expo, TypeScript, and cloud services for production-grade apps.",
+    "dateStart": "Feb 2026",
+    "dateEnd": "Present",
+    "icon": "work"
+  }
+]

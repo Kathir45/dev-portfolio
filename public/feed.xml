@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathirvel S — Software Developer</title>
+    <link>https://skathir45.netlify.app</link>
+    <description>Portfolio and projects by Kathirvel S, Software Developer specializing in MERN Stack and React Native.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 May 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://skathir45.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI-Course Generator</title>
+      <link>https://github.com/Kathir45</link>
+      <description>An AI-Powered Course Generator using Next.js, Gemini AI, PostgreSQL, and Drizzle ORM.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Diet Planner</title>
+      <link>https://github.com/Kathir45</link>
+      <description>Cross-platform mobile app for meal planning with AI-powered food recommendations.</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hospital Resource Optimization</title>
+      <link>https://github.com/Kathir45</link>
+      <description>PEC Techathon 3.0 Winner — AI-powered hospital resource prediction dashboard.</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
